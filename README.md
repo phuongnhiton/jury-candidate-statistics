@@ -31,4 +31,4 @@ This project processes raw candidate data and jury lists to answer critical ques
 ├── Output.py              # Advanced conditional analysis & reporting
 └── data.csv               # The final structured output for analysis
 
-This project is for educational and statistical research purposes only. It aims to demonstrate data processing capabilities and does not imply any real-world bias without further academic validation.
+## This project is for educational and statistical research purposes only. It aims to demonstrate data processing capabilities and does not imply any real-world bias without further academic validation.
